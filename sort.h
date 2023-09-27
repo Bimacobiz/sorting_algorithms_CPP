@@ -5,6 +5,6 @@
 
 // Function declarations or prototypes
 void bubble_sort(std::vector<int> &array);
-// Other sorting function declarations...
+void insertion_sort_list(ListNode** list);
 
 #endif /* SORT_H */
